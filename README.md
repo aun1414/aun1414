@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a current grad student at The George Washington University doing Masters in Computer Science. I did my bachelors from National University of Computer and Emerging Sciences, one of the most prestigious universities for computing education in Pakistan.
+I recently completed my Master’s in Computer Science from The George Washington University. Before that, I did my undergrad at the National University of Computer and Emerging Sciences—one of the top places for computing in Pakistan.
 
 My journey started from my obsession with gaming. This obsession induced a sort of curiosity inside me which impelled me to ponder about many questions: “How does this car move with my keystrokes? “How does it display these graphics on my screen?” All the questions were fundamentally similar-they inquired about how a machine with no intelligence of its own just conjures up something so intricate. The quest to find the answers to these questions gradually developed into a passion for computers and its technology and since then there has never been a shred of doubt within me about what I wanted to pursue. 
 
